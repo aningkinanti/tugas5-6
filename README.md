@@ -161,7 +161,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![outputstringformat](https://user-images.githubusercontent.com/72775624/97995257-dc5c0a80-1e18-11eb-8cad-f927711e8afb.PNG)
 
 #### ANALISIS
-•	Untuk angka pada statement {0:<3} {1:<16} berfungsi untuk memberi jarak, lalu untuk tanda < dan > untuk memberikan rata kanan dan rata kiri.
+•	Untuk angka pada statement {0:<3} {1:<16} berfungsi untuk memberi jarak, lalu untuk tanda < dan > untuk memberikan rata kanan dan rata kiri. <br>
 •	Untuk statement .format(0, 10** 0)) berfungsi untuk mencetak angka 0 dan hasil dari 10 pangkat 0 
 
 
