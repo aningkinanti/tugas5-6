@@ -161,7 +161,9 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![outputstringformat](https://user-images.githubusercontent.com/72775624/97995257-dc5c0a80-1e18-11eb-8cad-f927711e8afb.PNG)
 
 #### ANALISIS
-•	BELUM TAU
+•	Untuk angka pada statement {0:<3} {1:<16} berfungsi untuk memberi jarak, lalu untuk tanda < dan > untuk memberikan rata kanan dan rata kiri.
+•	Untuk statement .format(0, 10** 0)) berfungsi untuk mencetak angka 0 dan hasil dari 10 pangkat 0 
+
 
 ### Pertemuan 6 Lab 2
 
@@ -192,7 +194,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![outputlab2](https://user-images.githubusercontent.com/72775624/97995248-da924700-1e18-11eb-9a69-c7cee0798eaa.PNG)
 
 #### ANALISIS
-•	BELUM TAU
+•	Statement %d berfungsi untuk wadah menyimpan variabel a, b, dan hasil setelah dipanggil kembali oleh statement % (a, b, hasil))
 
 
 
